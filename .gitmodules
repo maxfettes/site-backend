@@ -1,3 +1,6 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "mfbu/public"]
+	path = mfbu/public
+	url = git@github.com:maxfettes/maxfettes.github.io
