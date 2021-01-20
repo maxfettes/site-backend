@@ -6,4 +6,4 @@ author = "Max Fettes"
 
 # Hi there
 
-My name is ~~Radek~~ Max and I'm ~~the author of this theme~~ a poo. I made it to help you present your ideas easier.
+after only two or three minutes, and as many years, mfbu navigates nvim in ranger; a wonder to the middling technician, set up by his technichian brother; and gets self access to the backend of his very own posting house. welcome seldom wanderer, this is a safe place. projects of the poetic include: dramatic samizdat sources into emergence and singularity, spontaneous economic theory of planet x, automatic film review (including speculation and gossip), anecdata, dotings, self quotes and a healthy dose of robot overlords.
