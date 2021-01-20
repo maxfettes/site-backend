@@ -1,4 +1,4 @@
-baseurl = "https://maxfettes.github.io/"
+baseurl = "https://www.maxfettes.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
