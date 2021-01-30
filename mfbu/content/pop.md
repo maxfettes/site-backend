@@ -1,9 +1,8 @@
----
-title: "Showcase"
-date: "2018-07-18"
-author: "Max Fettes"
-draft: true
----
++++
+title =  "Population of One"
+date =  2021-01-30T18:06:48+01:00
+author =  "Max Fettes"
++++
 
 As we cross over the anniversary of COVID (for me born sometime during the Tết 2020 holidays, aka lunar new year), I want to start sharing my ideas for the new age. This blog will act as an inquiry into those ideas, and a space for them to grow.
 
