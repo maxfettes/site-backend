@@ -6,7 +6,7 @@ cover = "hello.jpg"
 description = "Socrates on specialisation, and influence from poetic form."
 +++
 
-#a colourful sort
+# a colourful sort
 
   'Yes, that's because it *is* very enjoyable.'
   'But perhaps you'd say that it isn't compatible with our community's political system,' I went on, 'because each of our people has a single job to do, and therefore none of them is two-sided or many-sided.'
